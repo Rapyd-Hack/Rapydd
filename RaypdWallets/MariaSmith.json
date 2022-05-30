@@ -1,0 +1,81 @@
+{
+    "status": {
+        "error_code": "",
+        "status": "SUCCESS",
+        "message": "",
+        "response_code": "",
+        "operation_id": "2662ef1e-2181-3424-8bd3-df329c954085"
+    },
+    "data": {
+        "phone_number": null,
+        "email": null,
+        "first_name": "Maria",
+        "last_name": "Smith",
+        "id": "ewallet_00cf1a4375574caf20d3bca0717cef4f",
+        "status": "ACT",
+        "accounts": [],
+        "verification_status": "not verified",
+        "type": "person",
+        "metadata": {
+            "merchant_defined": true
+        },
+        "ewallet_reference_id": "MariaWallet",
+        "category": null,
+        "contacts": {
+            "data": [
+                {
+                    "id": "cont_12e45a3f44ff876e1dfd874802267bbd",
+                    "first_name": "Maria",
+                    "last_name": "Smith",
+                    "middle_name": "",
+                    "second_last_name": "",
+                    "gender": "female",
+                    "marital_status": "not_applicable",
+                    "house_type": "",
+                    "contact_type": "personal",
+                    "phone_number": "+19922334455",
+                    "email": "maria123smith22@gmail.com",
+                    "identification_type": "DL",
+                    "identification_number": "PRT9933JANE45",
+                    "issued_card_data": {
+                        "preferred_name": "",
+                        "transaction_permissions": "",
+                        "role_in_company": ""
+                    },
+                    "date_of_birth": "1992-02-03",
+                    "country": "US",
+                    "nationality": "US",
+                    "address": {
+                        "id": "address_fh23dr4d3cb7372167ef9e7jked05f",
+                        "name": "Maria Smith",
+                        "line_1": "A-34, Swift Lane",
+                        "line_2": "Manhattan",
+                        "line_3": "",
+                        "city": "New York City",
+                        "state": "NY",
+                        "country": "US",
+                        "zip": "22335566",
+                        "phone_number": "+19922334455",
+                        "metadata": {},
+                        "canton": "",
+                        "district": "",
+                        "created_at": 0502220530
+                    },
+                    "ewallet": "ewallet_00cf1a4375574caf20d3bca0717cef4f",
+                    "created_at": 0502220530,
+                    "metadata": {
+                        "merchant_defined": true
+                    },
+                    "business_details": null,
+                    "compliance_profile": 0,
+                    "verification_status": "not verified",
+                    "send_notifications": false,
+                    "mothers_name": "Martha Smith"
+                }
+            ],
+            "has_more": false,
+            "total_count": 1,
+            "url": "/v1/ewallets/ewallet_00cf1a4375574caf20d3bca0717cef4f/contacts"
+        }
+    }
+}

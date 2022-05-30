@@ -1,0 +1,81 @@
+{
+    "status": {
+        "error_code": "",
+        "status": "SUCCESS",
+        "message": "",
+        "response_code": "",
+        "operation_id": "7335ee4d-3641-7224-j3d3-df234ij4954085"
+    },
+    "data": {
+        "phone_number": null,
+        "email": null,
+        "first_name": "Jack",
+        "last_name": "Sparrow",
+        "id": "ewallet_2009e084279937774ca2790a56a1355c",
+        "status": "ACT",
+        "accounts": [],
+        "verification_status": "not verified",
+        "type": "person",
+        "metadata": {
+            "merchant_defined": true
+        },
+        "ewallet_reference_id": "JackWallet",
+        "category": null,
+        "contacts": {
+            "data": [
+                {
+                    "id": "cont_72eac549eae0085a549a9b1f2873f6c8",
+                    "first_name": "Jack",
+                    "last_name": "Sparrow",
+                    "middle_name": "",
+                    "second_last_name": "",
+                    "gender": "male",
+                    "marital_status": "not_applicable",
+                    "house_type": "",
+                    "contact_type": "personal",
+                    "phone_number": "+9712233557799",
+                    "email": "piratesjack@mail.com",
+                    "identification_type": "PA",
+                    "identification_number": "PPRT234JCK2",
+                    "issued_card_data": {
+                        "preferred_name": "",
+                        "transaction_permissions": "",
+                        "role_in_company": ""
+                    },
+                    "date_of_birth": "2021-05-20",
+                    "country": "AE",
+                    "nationality": "AF",
+                    "address": {
+                        "id": "address_fh23dr4d3cb7372167ef9e7jked05f",
+                        "name": "Maria Smith",
+                        "line_1": "123, Statin road",
+                        "line_2": "Malhala",
+                        "line_3": "",
+                        "city": "Dubai",
+                        "state": "Al Fujayrah",
+                        "country": "AE",
+                        "zip": "990234",
+                        "phone_number": "+9712233557799",
+                        "metadata": {},
+                        "canton": "",
+                        "district": "",
+                        "created_at": 0509220530
+                    },
+                    "ewallet": "ewallet_2009e084279937774ca2790a56a1355c",
+                    "created_at": 0509220530,
+                    "metadata": {
+                        "merchant_defined": true
+                    },
+                    "business_details": null,
+                    "compliance_profile": 0,
+                    "verification_status": "not verified",
+                    "send_notifications": false,
+                    "mothers_name": "Amber Sparrow"
+                }
+            ],
+            "has_more": false,
+            "total_count": 1,
+            "url": "/v1/ewallets/ewallet_2009e084279937774ca2790a56a1355c/contacts"
+        }
+    }
+}
