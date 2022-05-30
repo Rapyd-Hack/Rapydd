@@ -1,0 +1,77 @@
+{
+    "status": {
+        "error_code": "",
+        "status": "SUCCESS",
+        "message": "",
+        "response_code": "",
+        "operation_id": "ewallet_455a3aa23af99eda3e88a76adf6c01a9"
+    },
+    "data": {
+        "phone_number": null,
+        "email": null,
+        "first_name": "CommunityPay",
+        "last_name": "",
+        "id": "ewallet_455a3aa23af99eda3e88a76adf6c01a9",
+        "status": "ACT",
+        "accounts": [],
+        "verification_status": "not verified",
+        "type": "company",
+        "metadata": {
+            "merchant_defined": true
+        },
+        "ewallet_reference_id": "CommunityPay Wallet",
+        "category": null,
+        "contacts": {
+            "data": [
+                {
+                    "id": "cont_fa67cc94f86fed4f2a5f1f1bb1862e1a",
+                    "first_name": "CommunityPay",
+                    "last_name": "",
+                    "middle_name": "",
+                    "second_last_name": "",
+                    "gender": "not_applicable",
+                    "marital_status": "not_applicable",
+                    "house_type": "",
+                    "contact_type": "business",
+                    "phone_number": "+35823467899",
+                    "email": "ritay@email.com",
+                    "identification_type": "VI",
+                    "identification_number": "DMV996TJ3",
+                    "issued_card_data": {
+                        "preferred_name": "",
+                        "transaction_permissions": "",
+                        "role_in_company": ""
+                    },
+                    "date_of_birth": 19860829,
+                    "country": "Finland",
+                    "nationality": null,
+                    "address": null,
+                    "ewallet": "ewallet_455a3aa23af99eda3e88a76adf6c01a9",
+                    "created_at": 1743467331,
+                    "metadata": {},
+                    "business_details": {
+                        "id": "busi_b3j5bc349b9c83bc85c72be212fc63",
+                        "name": "",
+                        "registration_number": "",
+                        "entity_type": "Sole Owner",
+                        "industry_category": "n/a",
+                        "industry_sub_category": "n/a",
+                        "address": null,
+                        "created_at": 1743467331,
+                        "annual_revenue": 2740000,
+                        "establishment_date": 20080306,
+                        "legal_entity_type": null,
+                        "cnae_code": null
+                    },
+                    "compliance_profile": 0,
+                    "verification_status": "not verified",
+                    "send_notifications": false,
+                    "mothers_name": ""
+                }
+            ],
+            "has_more": false,
+            "total_count": 1,
+            "url": "/v1/ewallets/ewallet_455a3aa23af99eda3e88a76adf6c01a9/contacts"
+        }
+    }
+}
